@@ -1,0 +1,15 @@
+# Ignore secrets
+.env
+
+# Chrome session data (contains cookies/ tokens)
+chrome_profile/
+
+# Bot log
+bot.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/

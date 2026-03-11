@@ -1,0 +1,6 @@
+undetected-chromedriver
+selenium
+pandas
+python-dotenv
+PyPDF2
+scikit-learn
